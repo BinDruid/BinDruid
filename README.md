@@ -1,6 +1,6 @@
 ### Hey there ![](https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/2x)
 
-- Wrking on an e-commerce project ![](https://cdn.betterttv.net/emote/5e9643a2d023b362f6381be1/1x)
+- Currently Working on an e-commerce project ![](https://cdn.betterttv.net/emote/5e9643a2d023b362f6381be1/1x)
 
 - Learning MERN stack ![](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x) 
 
