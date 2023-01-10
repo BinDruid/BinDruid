@@ -1,9 +1,10 @@
 ### Hey there ![](https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/2x)
 
-- Python and nodejs developer ![](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x) 
+- Django and Vue developer ![](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x) 
 
-- Playing around with chat bots ![](https://cdn.betterttv.net/emote/5aca62163e290877a25481ad/1x) ![](https://cdn.betterttv.net/emote/56f6eb647ee3e8fc6e4fe48e/1x)
+- Text analysis enthousiast ![](https://cdn.betterttv.net/emote/5ff8f48a94ed120c66d3bf3e/1x) 
 
+- Playing around with chat bots ![](https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/1x) 
 
 
 
