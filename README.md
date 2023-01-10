@@ -4,7 +4,7 @@
 
 - Text analysis enthousiast ![](https://cdn.betterttv.net/emote/5ff8f48a94ed120c66d3bf3e/1x) 
 
-- Playing around with chat bots ![](https://cdn.betterttv.net/emote/618c77311f8ff7628e6d5b8f/2x) 
+- Playing around with chat bots ![](https://cdn.betterttv.net/emote/618c77311f8ff7628e6d5b8f/1x) 
 
 
 
