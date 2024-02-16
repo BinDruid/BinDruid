@@ -8,9 +8,9 @@
 
 ### Hey there ![](https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/2x)
 
-- I'm a Python and Node developer ![](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x) 
+- I'm a Python developer ![](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x) 
 
-- I'm a textual data analysis enthusiast ![](https://cdn.betterttv.net/emote/5e885338269f8409604a5da5/1x) 
+- I'm interested in textual data analysis and scraping ![](https://cdn.betterttv.net/emote/5e885338269f8409604a5da5/1x) 
 
 - I like playing around with chat applications ![](https://cdn.betterttv.net/emote/5ec48ee2fdee545e3064af9e/1x) ![](https://cdn.betterttv.net/emote/5f1e7ac5713a6144748a3b70/1x) 
 
